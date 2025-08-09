@@ -1,7 +1,7 @@
 AI Powered Career Guidance System
 ==========================
 
-# NCTB:  This project in progress, We are working on it. It's not properly builded yet.
+# Note:  This project in progress, We are working on it. It's not properly builded yet.
 
 This archive contains two folders:
 - frontend/  : your React Vite frontend (original repo) with a new API client at `src/api/client.ts`
